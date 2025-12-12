@@ -1,0 +1,9 @@
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+pyarrow
+fastparquet
+python-dateutil
+tqdm
+faker

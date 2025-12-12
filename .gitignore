@@ -1,0 +1,55 @@
+# -------------------------
+# Python build artifacts
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+env/
+.venv/
+
+# -------------------------
+# Packaging
+# -------------------------
+*.egg-info/
+dist/
+build/
+
+# -------------------------
+# IDE / Editor settings
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# OS junk files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Data files (optional)
+# Remove these lines if you want to track data in GitHub
+# -------------------------
+data/raw/
+data/processed/
+data/final/
+*.parquet
+*.csv
+
+# -------------------------
+# Power BI auto-generated files
+# -------------------------
+*.tmp
